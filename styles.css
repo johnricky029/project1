@@ -13,6 +13,7 @@ header {
     position: left;
     width: 100%;
     top: 0;
+    display: flex;
 }
 
 header .container {
@@ -142,3 +143,8 @@ nav
 {
     display: flex;
 }
+.containerbox
+{
+    padding-left: 140px;
+}
+
