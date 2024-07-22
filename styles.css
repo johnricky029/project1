@@ -13,7 +13,6 @@ header {
     position: left;
     width: 100%;
     top: 0;
-    display: flex;
 }
 
 header .container {
@@ -23,7 +22,7 @@ header .container {
 }
 
 header h1 {
-    margin-left: 20px;
+    margin-left: 15px;
     font-size: 24px;
 }
 
@@ -127,6 +126,7 @@ nav ul li a:hover {
     margin-bottom: 5px;
 }
 .custom-card {
+    display: flex;
     width: 300px;
     height: 400px;
 }
@@ -136,6 +136,7 @@ nav ul li a:hover {
     width: auto;
 }
 .carousel-item{
+    display: flex;
     max-height: 700px;
     width:auto  ;
 }
@@ -143,8 +144,3 @@ nav
 {
     display: flex;
 }
-.containerbox
-{
-    padding-left: 140px;
-}
-
